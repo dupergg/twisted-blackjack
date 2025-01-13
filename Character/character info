@@ -1,0 +1,6 @@
+Contains all classes used to create the Character classes.
+Only additions to the cards are the fromInt methods used in initializing a deck.
+
+Currently seperated into packages but did not seperate in Github yet.
+Characters package - Character, Player, Dealer, Deck
+Cards package - Card, Rank, Suit
